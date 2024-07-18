@@ -15,3 +15,4 @@ resource "google_container_cluster" "demo"{
 
     deletion_protection = false
 }
+

@@ -1,5 +1,5 @@
-terraform.tfsate
-terraform.tfsate.backup
+terraform.tfstate
+terraform.tfstate.backup
 .terraform.lock.hcl
 keys.json
 /.terraform
